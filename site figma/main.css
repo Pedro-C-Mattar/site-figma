@@ -1,0 +1,36 @@
+
+body { background: url("backgroud.PNG"); }
+body { background-size: cover;}
+
+.lin1 { 
+    border: none;
+    background-color: white; 
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: Calibri;
+    font-size: 40px;
+}
+
+
+#pesq { 
+    
+    border-radius: 30px; 
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+h2 {
+    font-family: Calibri;
+    font-size: larger;
+}
+
+.lin2 { height: 40px;}
+
+.lin4 { height: 200px;
+    border: none;
+    background-color: white; 
+    text-align: center;
+}
